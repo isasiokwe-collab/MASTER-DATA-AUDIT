@@ -1,0 +1,6 @@
+{
+  "name": "Cooler Audit Tracker",
+  "description": "High-contrast field sales and commercial cooler audit tracker for offline outlet data collection, GPS verification, barcode scanning, and Excel export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
